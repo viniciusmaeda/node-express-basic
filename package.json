@@ -1,5 +1,5 @@
 {
-  "name": "express-basic",
+  "name": "node-express-basic",
   "version": "1.0.0",
   "description": "Exemplo básico do framework Express JS",
   "main": "index.js",

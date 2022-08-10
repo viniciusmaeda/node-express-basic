@@ -1,4 +1,4 @@
-# express-basic
+# node-express-basic
 
 Este repositório contém um exemplo simples de utilização do framework Express
 
